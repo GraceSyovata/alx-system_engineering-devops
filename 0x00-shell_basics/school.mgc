@@ -1,4 +1,7 @@
+#!/bin/bash
 0 string SCHOOL
 cp school.mgc /tmp/magic
 ls -la /tmp/magic
+cp school.mgc /tmp/magic
+cp school.mgc /tmp/magic
 
