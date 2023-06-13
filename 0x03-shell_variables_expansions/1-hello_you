@@ -1,2 +1,6 @@
-#!/bin/bash
-echo "hello $USER"
+#!/bin/sh
+
+# Get the current Linux user
+user=$USER
+echo "Hello $user!"
+
