@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Queries the Reddit API and returns the number of total subscribers for a given
