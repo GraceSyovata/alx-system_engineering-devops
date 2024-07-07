@@ -1,3 +1,7 @@
+![image](https://github.com/GraceSyovata/alx-system_engineering-devops/assets/123548408/80a64abb-ec23-4e59-95b9-6dcc444d478e)
+
+Postmortem Report
+
 Issue Summary 
 -	Duration: Thursday 29 th June, 2024 from 14. 00 Hours – 16. 30 Hours (GMT). 
 -	Impact: Service disruptions and slow connection speeds were reported to have acts of inconvenience by the users. It was established that about forty percent of the users were impacted. 
